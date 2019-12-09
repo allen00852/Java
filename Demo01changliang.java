@@ -1,5 +1,5 @@
 /**
- * Demo01changliang
+ * 常量
  */
 public class Demo01changliang {
 
@@ -25,5 +25,8 @@ public class Demo01changliang {
         // 布尔常量
         System.out.println(true);
         System.out.println(false);
+
+        // 空常量
+        // System.out.println(NULL); 这是一个错误的
     }
 }
