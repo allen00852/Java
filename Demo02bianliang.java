@@ -1,5 +1,5 @@
 /**
- * 变量
+ * 变量的基本使用
  */
 public class Demo02bianliang {
 
@@ -43,7 +43,7 @@ public class Demo02bianliang {
         System.out.println(num8); // true
         num8 = false;
         System.out.println(num8); // false
-
+ 
         boolean var1 = num8;
         System.out.println(var1); // false
     }
