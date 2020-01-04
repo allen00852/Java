@@ -1,7 +1,7 @@
 /**
  * 常量
  */
-public class Demo01changliang {
+public class Day01changliang {
 
     public static void main(String[] args) {
         // 字符串常量 双引号的为字符串常量

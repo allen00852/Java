@@ -8,7 +8,7 @@
         3. byte/short/char这三种类型在运算时，都会被提升为int类型，然后再计算。
         4. 布尔类型不能发生数据类型转换
  */
-public class Demo04DateType {
+public class Day01DateType1 {
 
     public static void main(String[] args) {
         // 左边是int类型，右边是long类型，不一样。

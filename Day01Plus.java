@@ -3,7 +3,7 @@
  String类型与任何类型相加都会变成String类型。
  ()优先于一切，会先计算小括号里面的再与其他计算。
  */
-public class Demo06Plus {
+public class Day01Plus {
 
     public static void main(String[] args) {
         String str1 = "hello";

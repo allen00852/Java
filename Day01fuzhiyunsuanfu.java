@@ -9,7 +9,7 @@
         /=  a /= 2  相当于  a = a / 2
         %=  a %= 2  相当于  a = a % 2
 */
-public class Demo08fuzhiyunsuanfu {
+public class Day01fuzhiyunsuanfu {
 
     public static void main(String[] args) {
         int a = 10;

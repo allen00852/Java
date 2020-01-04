@@ -12,7 +12,7 @@
         a. 如果是【前++】，那么变量【立马+1】，然后拿到结果使用。   【先加后用】
         b. 如果是【后++】，那么首先使用变量本身，【再让其+1】。     【先用后加】
  */
-public class Demo07Jj {
+public class Day01Jj {
 
     public static void main(String[] args) {
         System.out.println("————单独使用————");

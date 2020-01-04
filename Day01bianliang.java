@@ -1,7 +1,7 @@
 /**
  * 变量的基本使用
  */
-public class Demo02bianliang {
+public class Day01bianliang {
 
     public static void main(String[] args) {
         // 整数类型

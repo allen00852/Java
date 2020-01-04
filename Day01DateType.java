@@ -3,7 +3,7 @@
     1. 特点：代码不需要进行特殊处理,自动完成.
     2. 规则: 数据范围从小到大.
  */
-public class Demo03DateType {
+public class Day01DateType {
 
     public static void main(String[] args) {
         System.out.println(1024); // 这是一个整数,默认 int 类型

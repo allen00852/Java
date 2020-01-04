@@ -8,7 +8,7 @@
     取模：%
 
  */
-public class Demo05Operator {
+public class Day01Operator {
     public static void main(String[] args) {
         // 加法
         System.out.println(123 + 10); // 133
